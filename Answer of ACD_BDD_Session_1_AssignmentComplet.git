@@ -1,0 +1,24 @@
+ACD_BDD_Session_2_Assignment_1_Main
+
+1-Concept used in Hadoop is 
+   b-Map and Reduce
+2-Hadoop divides Data into
+  a-Blocks
+3-Each node Results are stored in
+   a-HDFS
+4-Which of these can be related to Hadoop 1.X?
+  a-Job Tracker, Task Tracker, Name Node and Data Node
+5-Who are the Job Tracker in Hadoop?
+  b-Master
+6-Which nodes  stores the MetaData?
+  a-Name node
+7-Which is not a valid Daemon in Hadoop?
+  c-Checkpoint Node
+8-By default memory size of data limited to
+  d-b&C
+9-Slave Layer in Hadoop Architecture Contains
+  d-Data nodes and Resource Manager
+10-Data is replicated among
+   b-Data nodes
+
+
